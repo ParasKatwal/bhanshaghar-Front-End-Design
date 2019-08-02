@@ -1,2 +1,2 @@
 # bhanshaghar
-Bhanshaghar is web design for online food ordering website.
+Bhanshaghar is a online food ordering website.
